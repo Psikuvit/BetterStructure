@@ -1,0 +1,4 @@
+name: BetterStructures
+version: '${project.version}'
+main: me.psikuvit.betterstructures.BetterStructures
+api-version: 1.16
